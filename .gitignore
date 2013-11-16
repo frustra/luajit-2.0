@@ -9,3 +9,8 @@
 *.dmp
 *.swp
 .tags
+
+/bin/
+/include/
+/lib/
+/share/
